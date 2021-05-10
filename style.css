@@ -1,0 +1,20 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    height:50vh;
+    width: 100%;
+    
+    
+}
+
+img {
+    padding: 2px;
+    height: 100%;
+    object-fit: contain;
+    display: flex;
+    height: 50vh;
+    width: 200px;
+    
+
+}
+
